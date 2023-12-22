@@ -1,21 +1,4 @@
-"""
-Final programming assignment
-Name: Abdelrahman Abdelaal
-File name / program name: culminating-aldar-land
-Created on: March 31st, 2021
-Last modified on: 
 
-Purpose: The purpose of my program is to display a text based RPG story that will revolve around the users choices. Each choice has three options and has an impact on the story, choose carefuly.
-
-Extra features: Def statements, and Global statements.
-
-Global Statements: How do Global Statements work - Global statements is a command you use when a certain code is set in a specific scope and you want to use that code outside of that scope. Think about it as a barrier, sometimes a certain command is stuck in a barrier so you use global statements to lift that barrier so that command can be usable for other functions. Scopes are created when you make def statements. For example if I defined a variable at the top of the page and used it in a def statement that variable will be set to the scope of the def statement. Outside the def statement you can't reuse the same variable as it will say it's local variable is used is referenced before the assignment because you haven't used a global statement.
-
-Here's the link: 
-
-https://stackoverflow.com/questions/18002794/local-variable-referenced-before-assignment
-
-"""
 
 # Modules
 
